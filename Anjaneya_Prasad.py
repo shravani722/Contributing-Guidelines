@@ -1,2 +1,2 @@
-test
-commiting first file
+print("Hello world")
+print("commiting first file into Github")
